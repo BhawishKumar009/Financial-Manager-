@@ -1,0 +1,26 @@
+.parent{
+    display:flex;
+    list-style: none;
+    padding: 0;
+
+}
+.child{
+    flex:1;
+}
+.inputparent{
+    display: flex;
+}
+.inputs{
+    flex:1;
+    padding:10px ;
+    margin: 10px;
+}
+.btn{
+    display: flex;
+    justify-content: flex-start;
+}
+.button{
+    padding: 10px;
+    margin:20px;
+    margin-left: auto;
+}
